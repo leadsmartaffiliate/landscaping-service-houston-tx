@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://landscaping-service-houston-tx.netlify.app/sitemap.xml
